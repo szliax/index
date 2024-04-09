@@ -1,0 +1,27 @@
+style {
+    a:link, a:visited {
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        align-content: center;
+        color: #ffbad6;
+        display: inline-block; }
+}
+body{
+    
+    font-size: xx-large;
+    font-weight: 80;
+    font-style:italic;
+    font-family: "antique";
+    text-decoration-color: rgb(255, 189, 223);
+    display: grid;
+    display: flex;
+    flex-flow: column;
+    background:#F19DC1;
+    direction: inherit;
+    text-align:center;
+    color: rgb(255, 255, 255)
+}
+footer{
+    text-align: center;
+}

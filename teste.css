@@ -1,0 +1,21 @@
+style>
+a:link, a:visited {
+  background-color: #ff0000;
+  color: rgb(237, 3, 3);
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  align-content: center;
+  display: inline-block;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-style: italic;
+    font-family: inherit;
+    font-weight: bold;
+    border-color: #9e0000;
+    flex-flow: inherit;
+    text-align:center;
+ color: rgb(199, 0, 0)
+}
